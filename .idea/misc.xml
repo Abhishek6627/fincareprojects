@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/email-otp/pom.xml" />
+        <option value="$PROJECT_DIR$/api_gatways/pom.xml" />
+        <option value="$PROJECT_DIR$/bookretails/pom.xml" />
+        <option value="$PROJECT_DIR$/BookrestBook/pom.xml" />
+        <option value="$PROJECT_DIR$/naming_server/pom.xml" />
+        <option value="$PROJECT_DIR$/thymeleaf_ins/pom.xml" />
+        <option value="$PROJECT_DIR$/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/limits-servicev2/pom.xml" />
+        <option value="$PROJECT_DIR$/validationexample/pom.xml" />
+        <option value="$PROJECT_DIR$/sftp-file-transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/accountmicroservice/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-details-pan/pom.xml" />
+        <option value="$PROJECT_DIR$/practicebookrestbook/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/currency_exchange_service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency_exchange_service1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sheduler-getcustomerdetails/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+</project>

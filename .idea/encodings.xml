@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BookrestBook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BookrestBook/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/accountmicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/accountmicroservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gatways/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gatways/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookretails/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookretails/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency-conversion-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency_exchange_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency_exchange_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency_exchange_service1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency_exchange_service1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-details-pan/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-details-pan/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery_eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery_eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/email-otp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/email-otp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/limits-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/limits-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/limits-servicev2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/limits-servicev2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/naming_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/naming_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practicebookrestbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practicebookrestbook/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sftp-file-transfer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sftp-file-transfer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sheduler-getcustomerdetails/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_boot_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thymeleaf_ins/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thymeleaf_ins/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validationexample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validationexample/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="discovery_eureka" />
+        <module name="bootrestbook" />
+        <module name="currency_exchange_service" />
+        <module name="sheduler-getcustomerdetails" />
+        <module name="thymeleaf_ins" />
+        <module name="spring-cloud-config-server" />
+        <module name="currency_exchange_service (1)" />
+        <module name="spring_boot_annotation" />
+        <module name="email-otp" />
+        <module name="sftp-file-transfer" />
+        <module name="account-operations" />
+        <module name="naming_server" />
+        <module name="currency-conversion-service" />
+        <module name="api_gatways" />
+        <module name="practicebookrestbook" />
+        <module name="bookretails" />
+        <module name="validationexample" />
+        <module name="limits-service" />
+        <module name="limits-service (1) (com.in28min.microservie)" />
+        <module name="customer-details-pan" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account-operations" target="1.8" />
+      <module name="api_gatways" target="1.8" />
+      <module name="bookretails" target="1.8" />
+      <module name="bootrestbook" target="1.8" />
+      <module name="currency-conversion-service" target="1.8" />
+      <module name="currency_exchange_service" target="1.8" />
+      <module name="currency_exchange_service (1)" target="1.8" />
+      <module name="customer-details-pan" target="1.8" />
+      <module name="discovery_eureka" target="1.8" />
+      <module name="email-otp" target="1.8" />
+      <module name="limits-service" target="17" />
+      <module name="limits-service (1) (com.in28min.microservie)" target="1.8" />
+      <module name="naming_server" target="1.8" />
+      <module name="practicebookrestbook" target="1.8" />
+      <module name="sftp-file-transfer" target="1.8" />
+      <module name="sheduler-getcustomerdetails" target="1.8" />
+      <module name="spring-cloud-config-server" target="1.8" />
+      <module name="spring_boot_annotation" target="1.8" />
+      <module name="thymeleaf_ins" target="1.8" />
+      <module name="validationexample" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account-operations" options="-parameters" />
+      <module name="api_gatways" options="-parameters" />
+      <module name="bookretails" options="-parameters" />
+      <module name="bootrestbook" options="-parameters" />
+      <module name="currency-conversion-service" options="-parameters" />
+      <module name="currency_exchange_service (1)" options="-parameters" />
+      <module name="customer-details-pan" options="-parameters" />
+      <module name="discovery_eureka" options="-parameters" />
+      <module name="email-otp" options="-parameters" />
+      <module name="limits-service" options="-parameters" />
+      <module name="limits-service (1) (com.in28min.microservie)" options="-parameters" />
+      <module name="naming_server" options="-parameters" />
+      <module name="practicebookrestbook" options="-parameters" />
+      <module name="sftp-file-transfer" options="-parameters" />
+      <module name="sheduler-getcustomerdetails" options="-parameters" />
+      <module name="spring-cloud-config-server" options="-parameters" />
+      <module name="spring_boot_annotation" options="-parameters" />
+      <module name="thymeleaf_ins" options="-parameters" />
+      <module name="validationexample" options="-parameters" />
+    </option>
+  </component>
+</project>

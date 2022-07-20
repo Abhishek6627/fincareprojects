@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accountmicroservice/account-operations.iml" filepath="$PROJECT_DIR$/accountmicroservice/account-operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_gatways/api_gatways.iml" filepath="$PROJECT_DIR$/api_gatways/api_gatways.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookretails/bookretails.iml" filepath="$PROJECT_DIR$/bookretails/bookretails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookrestBook/bootrestbook.iml" filepath="$PROJECT_DIR$/BookrestBook/bootrestbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" filepath="$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency_exchange_service/currency_exchange_service.iml" filepath="$PROJECT_DIR$/currency_exchange_service/currency_exchange_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency_exchange_service1/currency_exchange_service (1).iml" filepath="$PROJECT_DIR$/currency_exchange_service1/currency_exchange_service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-details-pan/customer-details-pan.iml" filepath="$PROJECT_DIR$/customer-details-pan/customer-details-pan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery_eureka/discovery_eureka.iml" filepath="$PROJECT_DIR$/discovery_eureka/discovery_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email-otp/email-otp.iml" filepath="$PROJECT_DIR$/email-otp/email-otp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gitAc.iml" filepath="$PROJECT_DIR$/.idea/gitAc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/limits-service/limits-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/limits-servicev2/limits-service (1) (com.in28min.microservie).iml" filepath="$PROJECT_DIR$/limits-servicev2/limits-service (1) (com.in28min.microservie).iml" />
+      <module fileurl="file://$PROJECT_DIR$/naming_server/naming_server.iml" filepath="$PROJECT_DIR$/naming_server/naming_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicebookrestbook/practicebookrestbook.iml" filepath="$PROJECT_DIR$/practicebookrestbook/practicebookrestbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sftp-file-transfer/sftp-file-transfer.iml" filepath="$PROJECT_DIR$/sftp-file-transfer/sftp-file-transfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sheduler-getcustomerdetails/sheduler-getcustomerdetails.iml" filepath="$PROJECT_DIR$/sheduler-getcustomerdetails/sheduler-getcustomerdetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_annotation/spring_boot_annotation.iml" filepath="$PROJECT_DIR$/spring_boot_annotation/spring_boot_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thymeleaf_ins/thymeleaf_ins.iml" filepath="$PROJECT_DIR$/thymeleaf_ins/thymeleaf_ins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validationexample/validationexample.iml" filepath="$PROJECT_DIR$/validationexample/validationexample.iml" />
+    </modules>
+  </component>
+</project>
